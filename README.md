@@ -1,10 +1,10 @@
-# Interactive 3D Game
+# Heaven's Restaurant
 
 Welcome to our interactive 3D game called ***Heaven's Restaurant***! This game offers a unique experience combining the power of Three.js for immersive 3D graphics and ConvAI NPC for engaging non-player character interactions.
 
 ## Demo
 
-Watch a demo of our game in action on YouTube: [Interactive 3D Game Demo](https://youtu.be/5gVgWajfqS8)
+Watch a demo of our game in action on YouTube: [Demo](https://youtu.be/5gVgWajfqS8)
 
 ## Description
 
